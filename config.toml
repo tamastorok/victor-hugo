@@ -1,4 +1,4 @@
-baseURL = "http://www.blog.iamtamas.com"
+baseURL = "http://blog.iamtamas.com"
 languageCode = "en-us"
 title = "A maker's blog for other makers"
-theme = "hugo-aper"
+theme = "hugo-paper"
